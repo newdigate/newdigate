@@ -1,5 +1,5 @@
 # 🔭 Music Machines - Mechanics / Electronics / Software
-- electronics: micro-controllers, analog/digital interfacing, kicad, freecad, eurorack, teensy, fpgas, arduino
+- electronics: open-source EDA, micro-controllers, analog/digital interfacing, kicad, freecad, eurorack, teensy, fpgas, arduino
 - software: linux, c / c++, c# .net, java, continuous-integration/delivery, opengl, shaders, automation, server-side messaging
 
 ![](https://github-readme-stats.vercel.app/api?username=newdigate&count_private=true&show_icons=true) 
