@@ -5,5 +5,5 @@
 | [midi-smf-reader](https://github.com/newdigate/midi-smf-reader)   | [![Ubuntu-x64](https://github.com/newdigate/midi-smf-reader/workflows/Ubuntu-x64/badge.svg)](https://github.com/newdigate/midi-smf-reader/actions?query=workflow%3AUbuntu-x64) | [![teensy40](https://github.com/newdigate/midi-smf-reader/workflows/teensy40/badge.svg)](https://github.com/newdigate/midi-smf-reader/actions?query=workflow%3Ateensy40) |
 | [teensy-quencer](https://github.com/newdigate/teensy-quencer)     | [![Ubuntu-x64](https://github.com/newdigate/midi-smf-reader/workflows/Ubuntu-x64/badge.svg)](https://github.com/newdigate/midi-smf-reader/actions?query=workflow%3AUbuntu-x64) | [![teensy40](https://github.com/newdigate/teensy-quencer/workflows/teensy40/badge.svg)](https://github.com/newdigate/midi-smf-reader/actions?query=workflow%3Ateensy40)  |
 
-<a href='///github.com/newdigate/teensy-eurorack'><img src='https://github.com/newdigate/teensy-eurorack/raw/master/hardware/images/kryonos.png' height='150px'/></a>
-<a href='///github.com/newdigate/teensy-control-voltage'><img src='https://github.com/newdigate/teensy-control-voltage/raw/master/docs/front-view.png' height='150px'/></a>
+<a href='///github.com/newdigate/teensy-eurorack'><img src='https://github.com/newdigate/teensy-eurorack/raw/master/hardware/images/kryonos.png' height='100px'/></a>
+<a href='///github.com/newdigate/teensy-control-voltage'><img src='https://github.com/newdigate/teensy-control-voltage/raw/master/docs/front-view.png' height='100px'/></a>
