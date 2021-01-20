@@ -8,6 +8,7 @@
 | [teensy-variable-playback](https://github.com/newdigate/teensy-variable-playback)  | [![Ubuntu-x64](https://github.com/newdigate/teensy-variable-playback/workflows/Ubuntu-x64/badge.svg)](https://github.com/newdigate/teensy-variable-playback/actions) | [![teensy40](https://github.com/newdigate/teensy-variable-playback/workflows/teensy40/badge.svg)](https://github.com/newdigate/teensy-variable-playback/actions)  | 
 | [teensy-audio-libtftscope](https://github.com/newdigate/teensy-audio-libtftscope)  |  |  [![teensy40](https://github.com/newdigate/teensy-audio-libtftscope/workflows/teensy40/badge.svg)](https://github.com/newdigate/teensy-audio-libtftscope/actions)  |  
 | [teensy-cmake-macros](https://github.com/newdigate/teensy-cmake-macros)  |  |    |  
+| [teensy-st7735-linux-stubs](https://github.com/newdigate/teensy-st7735-linux-stubs)  |  [![Ubuntu-x64](https://github.com/newdigate/teensy-st7735-linux-stubs/workflows/Ubuntu-x64/badge.svg)](https://github.com/newdigate/teensy-st7735-linux-stubs/actions)  |    |  
 
 <a href='///github.com/newdigate/teensy-eurorack'><img src='https://github.com/newdigate/teensy-eurorack/raw/master/hardware/images/kryonos.png' height='100px'/></a>
 <a href='///github.com/newdigate/teensy-control-voltage'><img src='https://github.com/newdigate/teensy-control-voltage/raw/master/docs/front-view.png' height='100px'/></a>
