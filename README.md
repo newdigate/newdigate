@@ -1,4 +1,6 @@
-<a href='///github.com/newdigate/teensy-eurorack'><img src='https://github.com/newdigate/teensy-eurorack/raw/master/hardware/images/teensy-eurorack.svg' height='80px'/></a>       <a href='///github.com/newdigate/teensy-control-voltage'><img src='https://github.com/newdigate/teensy-control-voltage/raw/master/docs/teensy-control-voltage.svg' height='80px'/></a>
+<a href='///github.com/newdigate/teensy-eurorack'><img src='https://github.com/newdigate/teensy-eurorack/raw/master/hardware/images/teensy-eurorack.svg' height='80px'/></a>       <a href='///github.com/newdigate/teensy-control-voltage'><img src='https://github.com/newdigate/teensy-control-voltage/raw/master/docs/teensy-control-voltage.svg' height='80px'/></a>         <a href='///github.com/newdigate/teensy-libcurve'><img src='https://github.com/newdigate/teensy-libcurve/raw/main/docs/curves.gif' height='80px'/></a>
+
+
 
 | | | | |
 |-|-|-|-|
