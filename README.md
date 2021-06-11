@@ -1,4 +1,4 @@
-I'm Nic - a programmer, hardware designer and open source evangelist. 
+I'm Nic - a programmer, hardware designer and open source enthusiast. 
 
 I'm building an open source educational platform, based on [Teensy 4.1](https://www.pjrc.com/store/teensy41.html) for building DIY digital music hardware and software;  
 
