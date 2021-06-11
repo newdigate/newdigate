@@ -2,7 +2,7 @@
 
 I'm Nic - a programmer, hardware designer and open source evangelist. 
 
-I'm building an open source educational platform, based on [Teensy 4.1](https://www.pjrc.com/store/teensy41.html) for building digital music hardware and software;  
+I'm building an open source educational platform, based on [Teensy 4.1](https://www.pjrc.com/store/teensy41.html) for building DIY digital music hardware and software;  
 
 If you'de like to support my work, please consider a small donation - its hugely appreciated!!!
 
