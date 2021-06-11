@@ -1,6 +1,7 @@
 I'm Nic - a programmer, hardware designer and open source evangelist. 
 
-I'm building an open source educational platform, based on [Teensy 4.1](https://www.pjrc.com/store/teensy41.html) for building DIY digital music hardware and software;  [teensy-eurorack-audio-gui](https://newdigate.github.io/teensy-eurorack-audio-gui)
+I'm building an open source educational platform, based on [Teensy 4.1](https://www.pjrc.com/store/teensy41.html) for building DIY digital music hardware and software;  
+[teensy-eurorack-audio-gui](https://newdigate.github.io/teensy-eurorack-audio-gui)
 
 <a href='///www.patreon.com/teensy_eurorack'><img src='https://github.githubassets.com/images/modules/site/icons/funding_platforms/patreon.svg' height='20px' title='patreon'/>Patreon</a>
 |
