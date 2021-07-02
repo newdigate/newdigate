@@ -5,9 +5,9 @@
 
 **Hi** - My name is *Nic*. 
 
-I'm a ```full-stack web```, ```windows```, ```linux``` and ```embedded``` developer; and a ```hardware designer``` & ```open source enthusiast```
+I'm a ```full-stack web```, ```windows```, ```linux``` and ```embedded``` developer; a ```hardware designer```; and an ```open source``` enthusiast
 
-In my spare time, I'm building an ```open source``` educational platform, based on [Teensy 4.1](https://www.pjrc.com/store/teensy41.html) for building DIY digital music ```hardware``` & ```software``` - I hope you'll find something useful:
+In my spare time, I'm building an ```open source```, ```educational``` platform for designing DIY digital music ```hardware``` & ```software```, based on [Teensy 4.1](https://www.pjrc.com/store/teensy41.html) - I hope you'll find something interesting or useful:
 
 ```kicad``` / ```hardware```
 [teensy-eurorack](https://github.com/newdigate/teensy-eurorack)
@@ -17,13 +17,11 @@ In my spare time, I'm building an ```open source``` educational platform, based 
 [teensy-tinyfpga](https://github.com/newdigate/teensy-tinyfpga)
 
 ```teensy``` / ```c++``` 
-[teensy-eurorack-audio-gui](https://newdigate.github.io/teensy-eurorack-audio-gui)
+[teensy-variable-playback](https://github.com/newdigate/teensy-variable-playback)
 |
 [teensy-cmake-macros](https://github.com/newdigate/teensy-cmake-macros)
 |
 [midi-smf-reader](https://github.com/newdigate/midi-smf-reader)
-|
-[teensy-variable-playback](https://github.com/newdigate/teensy-variable-playback)
 |
 [teensy-libcurve](https://github.com/newdigate/teensy-libcurve)
 |
@@ -38,6 +36,9 @@ In my spare time, I'm building an ```open source``` educational platform, based 
 [teensy-quencer](https://github.com/newdigate/teensy-quencer)
 |
 [teensy-audio-libtftscope](https://github.com/newdigate/teensy-audio-libtftscope)
+|
+[teensy-eurorack-audio-gui](https://newdigate.github.io/teensy-eurorack-audio-gui)
+
 
 ```emulated teensy``` / ```c++``` 
 [teensy-x86-stubs](https://github.com/newdigate/teensy-x86-stubs)
