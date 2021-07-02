@@ -3,9 +3,9 @@
 |
 [paypal.me](///paypal.me/nicnewdigate)
 
-Hi - My name is Nic. I'm a ```full-stack``` ```web```, ```windows``` and ```linux``` developer, hardware designer and open source enthusiast. 
+**Hi** - My name is *Nic*. I'm a ```full-stack``` ```web```, ```windows``` and ```linux``` developer; hardware designer & open source enthusiast. 
 
-In my spare time, I'm building an open source educational platform, based on [Teensy 4.1](https://www.pjrc.com/store/teensy41.html) for building DIY digital music hardware and software;  
+In my spare time, I'm building an ```open source``` educational platform, based on [Teensy 4.1](https://www.pjrc.com/store/teensy41.html) for building DIY digital music ```hardware``` & ```software``` - I hope you'll find something useful:
 
 ```kicad``` / ```hardware```
 [teensy-eurorack](https://github.com/newdigate/teensy-eurorack)
