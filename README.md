@@ -40,7 +40,7 @@ In my spare time, I'm building an ```open source```, ```educational``` platform 
 [teensy-eurorack-audio-gui](https://newdigate.github.io/teensy-eurorack-audio-gui)
 
 
-```emulated teensy``` / ```c++``` 
+```teensy on x86/x64``` / ```c++``` 
 [teensy-x86-stubs](https://github.com/newdigate/teensy-x86-stubs)
 |
 [teensy-x86-sd-stubs](https://github.com/newdigate/teensy-x86-sd-stubs)
