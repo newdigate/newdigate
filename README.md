@@ -47,7 +47,7 @@ In my spare time, I'm building an ```open source``` educational platform, based 
 [teensy-st7735-linux-stubs](https://github.com/newdigate/teensy-st7735-linux-stubs)
 
 ```vscode``` / ```typescript```
-[vscode-boost-test-adapter](https://github.com/newdigate/vscode-boost-test-adapter)
+[vscode-boost-test-adapter](https://github.com/newdigate/vscode-boost-test-adapter) [^](https://marketplace.visualstudio.com/items?itemName=NicNewdigate.boost-test-adapter-debug)
 
 ```nodejs``` 
 [eurorack-awesome-db](https://github.com/newdigate/eurorack-awesome-db) [^](https://github.com/newdigate/eurorack-awesome)
