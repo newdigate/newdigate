@@ -1,9 +1,8 @@
+**Hi** - My name is *Nic*. 
 ```support my work``` 
 <a href='///www.patreon.com/teensy_eurorack'><img src='https://github.githubassets.com/images/modules/site/icons/funding_platforms/patreon.svg' height='20px' title='patreon'/>Patreon</a>
 |
 [paypal.me](///paypal.me/nicnewdigate)
-
-**Hi** - My name is *Nic*. 
 
 I'm a ```full-stack web```, ```windows```, ```linux``` and ```embedded``` developer; a ```hardware designer```; and an ```open source``` enthusiast
 
