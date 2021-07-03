@@ -15,7 +15,7 @@ In my spare time, I'm building an ```open source```, ```educational``` platform 
 [teensy-control-voltage](https://github.com/newdigate/teensy-control-voltage)
 |
 [teensy-tinyfpga](https://github.com/newdigate/teensy-tinyfpga)
-
+|
 ```teensy``` / ```c++``` 
 [teensy-variable-playback](https://github.com/newdigate/teensy-variable-playback)
 |
@@ -38,8 +38,7 @@ In my spare time, I'm building an ```open source```, ```educational``` platform 
 [teensy-audio-libtftscope](https://github.com/newdigate/teensy-audio-libtftscope)
 |
 [teensy-eurorack-audio-gui](https://newdigate.github.io/teensy-eurorack-audio-gui)
-
-
+|
 ```teensy on x86/x64``` / ```c++``` 
 [teensy-x86-stubs](https://github.com/newdigate/teensy-x86-stubs)
 |
@@ -48,28 +47,28 @@ In my spare time, I'm building an ```open source```, ```educational``` platform 
 [teensy-audio-x86-stubs](https://github.com/newdigate/teensy-audio-x86-stubs)
 |
 [teensy-st7735-linux-stubs](https://github.com/newdigate/teensy-st7735-linux-stubs)
-
+|
 ```vscode``` / ```typescript```
 [vscode-boost-test-adapter](https://github.com/newdigate/vscode-boost-test-adapter) [^](https://marketplace.visualstudio.com/items?itemName=NicNewdigate.boost-test-adapter-debug)
-
+|
 ```nodejs``` 
 [eurorack-awesome-db](https://github.com/newdigate/eurorack-awesome-db) [^](https://github.com/newdigate/eurorack-awesome)
 |
 [nodejs-scrape-and-generate-colors](https://github.com/newdigate/nodejs-scrape-and-generate-colors) [^](https://github.com/newdigate/rgb565_colors)
-
+|
 ```c#```
 [troupe-windows-notifier](https://github.com/newdigate/troupe-windows-notifier)
 |
 [ObservableMessaging](https://github.com/newdigate/ObservableMessaging)
 |
 [NFlowGraph](https://github.com/newdigate/NFlowGraph)
-
+|
 ```sql```
 [sqlserver-revision-tables](https://github.com/newdigate/sqlserver-revision-tables)
-
+|
 ```java```
 [soa-dsl-scaffolding](https://github.com/newdigate/soa-dsl-scaffolding)
-
+|
 ```vhdl```
 [vhdl-tdm](https://github.com/newdigate/vhdl-tdm)
 |
