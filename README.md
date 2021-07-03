@@ -6,7 +6,7 @@
 
 I'm a ```full-stack web```, ```windows```, ```linux``` and ```embedded``` developer; a ```hardware designer```; and an ```open source``` enthusiast
 
-In my spare time, I'm building an ```open source```, ```educational``` platform for designing DIY digital music ```hardware``` & ```software```, based on [Teensy 4.1](https://www.pjrc.com/store/teensy41.html) - I hope you'll find something interesting or useful:
+In my spare time, I'm building an ```open source``` ```educational``` platform for designing DIY digital music ```hardware``` & ```software```, based on [Teensy 4.1](https://www.pjrc.com/store/teensy41.html) - I hope you'll find something interesting or useful:
 
 ```kicad```  ```hardware```
 [teensy-eurorack](https://github.com/newdigate/teensy-eurorack)
