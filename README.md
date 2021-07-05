@@ -8,7 +8,7 @@ I'm a ```full-stack web```, ```windows```, ```linux``` and ```embedded``` develo
 
 In my spare time, I'm building an ```open source``` ```educational``` platform for designing DIY digital music ```hardware``` & ```software```, based on [Teensy 4.1](https://www.pjrc.com/store/teensy41.html) - I hope you'll find something interesting or useful:
 
-```kicad```  ```hardware```
+```hardware```
 [teensy-eurorack](https://github.com/newdigate/teensy-eurorack)
 |
 [teensy-control-voltage](https://github.com/newdigate/teensy-control-voltage)
@@ -17,7 +17,7 @@ In my spare time, I'm building an ```open source``` ```educational``` platform f
 |
 [teensy-midi-looper](https://github.com/newdigate/teensy-midi-looper)
 |
-```teensy```  ```c++``` 
+```teensy``` 
 [teensy-variable-playback](https://github.com/newdigate/teensy-variable-playback)
 |
 [teensy-cmake-macros](https://github.com/newdigate/teensy-cmake-macros)
@@ -40,7 +40,7 @@ In my spare time, I'm building an ```open source``` ```educational``` platform f
 |
 [teensy-eurorack-audio-gui](https://newdigate.github.io/teensy-eurorack-audio-gui)
 |
-```teensy on x86/x64```  ```c++``` 
+```teensy on x86/x64```
 [teensy-x86-stubs](https://github.com/newdigate/teensy-x86-stubs)
 |
 [teensy-x86-sd-stubs](https://github.com/newdigate/teensy-x86-sd-stubs)
@@ -49,7 +49,7 @@ In my spare time, I'm building an ```open source``` ```educational``` platform f
 |
 [teensy-st7735-linux-stubs](https://github.com/newdigate/teensy-st7735-linux-stubs)
 |
-```vscode```  ```typescript```
+```typescript```
 [vscode-boost-test-adapter](https://github.com/newdigate/vscode-boost-test-adapter) [^](https://marketplace.visualstudio.com/items?itemName=NicNewdigate.boost-test-adapter-debug)
 |
 ```nodejs``` 
