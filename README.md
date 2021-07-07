@@ -20,6 +20,8 @@ In my spare time, I'm building an ```open source``` ```educational``` platform f
 ```teensy``` 
 [teensy-variable-playback](https://github.com/newdigate/teensy-variable-playback)
 |
+[teensy-polyphony](https://github.com/newdigate/teensy-polyphony)
+|
 [teensy-cmake-macros](https://github.com/newdigate/teensy-cmake-macros)
 |
 [midi-smf-reader](https://github.com/newdigate/midi-smf-reader)
