@@ -3,6 +3,8 @@
 <a href='///www.patreon.com/teensy_eurorack'><img src='https://github.githubassets.com/images/modules/site/icons/funding_platforms/patreon.svg' height='20px' title='patreon'/>Patreon</a>
 |
 [paypal.me](///paypal.me/nicnewdigate)
+|
+[newdigate@github-sponsors](https://github.com/sponsors/newdigate)
 
 I'm a ```full-stack web```, ```windows```, ```linux``` and ```embedded``` developer; a ```hardware designer```; and an ```open source``` enthusiast
 
