@@ -20,39 +20,42 @@ In my spare time, I'm building an ```open source``` ```educational``` platform f
 [teensy-midi-looper](https://github.com/newdigate/teensy-midi-looper)
 |
 ```teensy``` 
-[teensy-variable-playback](https://github.com/newdigate/teensy-variable-playback)
+[variable-playback](https://github.com/newdigate/teensy-variable-playback)
 |
-[teensy-polyphony](https://github.com/newdigate/teensy-polyphony)
+[polyphony](https://github.com/newdigate/teensy-polyphony)
 |
-[teensy-cmake-macros](https://github.com/newdigate/teensy-cmake-macros)
+[midifile-reader](https://github.com/newdigate/midi-smf-reader)
 |
-[midi-smf-reader](https://github.com/newdigate/midi-smf-reader)
+[midifile-writer](https://github.com/newdigate/midi-smf-writer)
 |
-[teensy-libcurve](https://github.com/newdigate/teensy-libcurve)
+[libcurve](https://github.com/newdigate/teensy-libcurve)
 |
-[teensy-audio-ad5754-ad7606](https://github.com/newdigate/teensy-audio-ad5754-ad7606)
+[audio-ad5754-ad7606](https://github.com/newdigate/teensy-audio-ad5754-ad7606)
 |
 [AudioEffectDynamics](https://github.com/newdigate/AudioEffectDynamics)
 |
 [rgb565_colors](https://github.com/newdigate/rgb565_colors)
 |
-[arduino-tftpianoview](https://github.com/newdigate/arduino-tftpianoview)
+[tftpianoview](https://github.com/newdigate/arduino-tftpianoview)
 |
-[teensy-quencer](https://github.com/newdigate/teensy-quencer)
+[teensyquencer](https://github.com/newdigate/teensy-quencer)
 |
-[teensy-audio-libtftscope](https://github.com/newdigate/teensy-audio-libtftscope)
+[libtftscope](https://github.com/newdigate/teensy-audio-libtftscope)
 |
-[teensy-eurorack-audio-gui](https://newdigate.github.io/teensy-eurorack-audio-gui)
+[eurorack-audio-gui](https://newdigate.github.io/teensy-eurorack-audio-gui)
+|
+[cmake-macros](https://github.com/newdigate/teensy-cmake-macros)
 |
 ```teensy on x86/x64```
-[teensy-x86-stubs](https://github.com/newdigate/teensy-x86-stubs)
+[x86-stubs](https://github.com/newdigate/teensy-x86-stubs)
 |
-[teensy-x86-sd-stubs](https://github.com/newdigate/teensy-x86-sd-stubs)
+[x86-sd-stubs](https://github.com/newdigate/teensy-x86-sd-stubs)
 |
-[teensy-audio-x86-stubs](https://github.com/newdigate/teensy-audio-x86-stubs)
+[audio-x86-stubs](https://github.com/newdigate/teensy-audio-x86-stubs)
 |
-[teensy-st7735-linux-stubs](https://github.com/newdigate/teensy-st7735-linux-stubs)
+[st7735-linux-stubs](https://github.com/newdigate/teensy-st7735-linux-stubs)
 |
+[midi-stubs](https://github.com/newdigate/teensy-x86-midi-stubs)
 ```typescript```
 [vscode-boost-test-adapter](https://github.com/newdigate/vscode-boost-test-adapter) [^](https://marketplace.visualstudio.com/items?itemName=NicNewdigate.boost-test-adapter-debug)
 |
@@ -80,6 +83,6 @@ In my spare time, I'm building an ```open source``` ```educational``` platform f
 [papilio_duo_i2s](https://github.com/newdigate/papilio_duo_i2s)
 |
 ```freecad```
-[freecad-eurorack-panel](https://github.com/newdigate/freecad-eurorack-panel)
+[eurorack-panel](https://github.com/newdigate/freecad-eurorack-panel)
 
 <a href='///github.com/newdigate/teensy-eurorack'><img src='https://github.com/newdigate/teensy-eurorack/raw/master/hardware/images/teensy-eurorack.svg' height='80px' title='newdigate/teensy-eurorack'/></a>       <a href='///github.com/newdigate/teensy-control-voltage'><img src='https://github.com/newdigate/teensy-control-voltage/raw/master/docs/teensy-control-voltage.svg' height='80px' title='newdigate/teensy-control-voltage'/></a>         <a href='///github.com/newdigate/teensy-libcurve'><img src='https://github.com/newdigate/teensy-libcurve/raw/main/docs/curves.gif' height='80px' title='newdigate/teensy-libcurve'/></a>     <a href='///github.com/newdigate/teensy-libcurve'><img src='https://github.com/newdigate/teensy-libcurve/raw/main/docs/curves-heart.gif' height='80px' title='newdigate/teensy-libcurve'/></a>       <a href='///github.com/newdigate/teensy-audio-display-components'><img src='https://github.com/newdigate/teensy-audio-display-components/raw/main/docs/multiple_example.gif' height='80px' title='newdigate/teensy-audio-display-components'/></a>        <a href='///github.com/newdigate/arduino-tftpianoview'><img src='https://github.com/newdigate/arduino-tftpianoview/raw/master/docs/arduino-tftpianoview.gif' height='80px' title='newdigate/arduino-tftpianoview'/></a>
