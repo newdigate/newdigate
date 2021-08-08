@@ -1,4 +1,4 @@
-:wave **Hi** - My name is *Nic*. 
+👋 **Hi** - My name is *Nic*. 
 
 I'm a ```full-stack web```, ```windows```, ```linux``` and ```embedded``` developer; a ```hardware designer```; and an ```open source``` enthusiast
 
