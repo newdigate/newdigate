@@ -1,8 +1,10 @@
 👋 **Hi** - My name is *Nic*. 
 
-I'm building an ```open source``` ```educational``` platform for designing DIY digital music ```hardware``` & ```software```, based on [Teensy 4.1](https://www.pjrc.com/store/teensy41.html) - I hope you'll find something interesting or useful:
+I'm building an ```educational``` DIY digital music instrument and effect platform, based on [Teensy 4.1](https://www.pjrc.com/store/teensy41.html) microcontroller dev boards - All my repos are ```MIT license``` ```open source```, so please feel free to use it commercially. 
 
-```support my work``` Your contributions are massively appreciated! With your support, I can do this full-time. 
+```support my work```
+
+Your contributions are massively appreciated! With your support, I can continue to write free software and hardware, and hopefully soon, I will be able to do it full-time...
 
 <a href='///www.patreon.com/teensy_eurorack'><img src='https://github.githubassets.com/images/modules/site/icons/funding_platforms/patreon.svg' height='20px' title='patreon'/>Patreon</a>
 |
