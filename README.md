@@ -1,6 +1,6 @@
 👋 **Hi** - My name is *Nic*. 
 
-I'm building an ```educational``` DIY digital music instrument and effect platform, based on [Teensy 4.1](https://www.pjrc.com/store/teensy41.html) microcontroller dev boards - All my repos are ```MIT license``` ```open source```, so please feel free to use it commercially. 
+I'm building an ```educational``` DIY digital music instrument and effect platform, based on [Teensy 4.1](https://www.pjrc.com/store/teensy41.html) microcontroller dev boards - All my repos are ```MIT license``` ```open source```, so please feel free to use them commercially. 
 
 ```support my work```
 
