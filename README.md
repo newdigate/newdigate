@@ -4,7 +4,7 @@ I'm building an ```educational``` DIY digital music instrument and effect platfo
 
 ```support my work```
 
-Your contributions are massively appreciated! With your support, I can continue to write free software and hardware, and hopefully soon, I will be able to do it full-time...
+Your contributions are massively appreciated! With your support, I can continue to design free software and hardware, and hopefully soon, I will be able to do it full-time...
 
 <a href='///www.patreon.com/teensy_eurorack'><img src='https://github.githubassets.com/images/modules/site/icons/funding_platforms/patreon.svg' height='20px' title='patreon'/>Patreon</a>
 |
