@@ -1,12 +1,17 @@
-**Hi** - My name is *Nic*. 
+:wave **Hi** - My name is *Nic*. 
+
+I'm a ```full-stack web```, ```windows```, ```linux``` and ```embedded``` developer; a ```hardware designer```; and an ```open source``` enthusiast
+
 ```support my work``` 
+Please support me so I can spend more time writing open source code! 
+
 <a href='///www.patreon.com/teensy_eurorack'><img src='https://github.githubassets.com/images/modules/site/icons/funding_platforms/patreon.svg' height='20px' title='patreon'/>Patreon</a>
 |
 [paypal.me](///paypal.me/nicnewdigate)
 |
 [github-sponsors](https://github.com/sponsors/newdigate)
 
-I'm a ```full-stack web```, ```windows```, ```linux``` and ```embedded``` developer; a ```hardware designer```; and an ```open source``` enthusiast
+
 
 In my spare time, I'm building an ```open source``` ```educational``` platform for designing DIY digital music ```hardware``` & ```software```, based on [Teensy 4.1](https://www.pjrc.com/store/teensy41.html) - I hope you'll find something interesting or useful:
 
