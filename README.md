@@ -62,7 +62,7 @@ With your support, I can continue to design free software and hardware, and hope
 
 ```typescript```
 [vscode-boost-test-adapter](https://github.com/newdigate/vscode-boost-test-adapter) [^](https://marketplace.visualstudio.com/items?itemName=NicNewdigate.boost-test-adapter-debug)
-
+|
 ```nodejs``` 
 [eurorack-awesome-db](https://github.com/newdigate/eurorack-awesome-db) [^](https://github.com/newdigate/eurorack-awesome)
 |
