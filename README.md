@@ -21,7 +21,7 @@ Your contributions are massively appreciated! With your support, I can continue 
 [teensy-tinyfpga](https://github.com/newdigate/teensy-tinyfpga)
 |
 [teensy-midi-looper](https://github.com/newdigate/teensy-midi-looper)
-|
+
 ```teensy``` 
 [variable-playback](https://github.com/newdigate/teensy-variable-playback)
 |
@@ -48,7 +48,7 @@ Your contributions are massively appreciated! With your support, I can continue 
 [eurorack-audio-gui](https://newdigate.github.io/teensy-eurorack-audio-gui)
 |
 [cmake-macros](https://github.com/newdigate/teensy-cmake-macros)
-|
+
 ```teensy on x86/x64```
 [x86-stubs](https://github.com/newdigate/teensy-x86-stubs)
 |
@@ -59,14 +59,15 @@ Your contributions are massively appreciated! With your support, I can continue 
 [st7735-linux-stubs](https://github.com/newdigate/teensy-st7735-linux-stubs)
 |
 [midi-stubs](https://github.com/newdigate/teensy-x86-midi-stubs)
+
 ```typescript```
 [vscode-boost-test-adapter](https://github.com/newdigate/vscode-boost-test-adapter) [^](https://marketplace.visualstudio.com/items?itemName=NicNewdigate.boost-test-adapter-debug)
-|
+
 ```nodejs``` 
 [eurorack-awesome-db](https://github.com/newdigate/eurorack-awesome-db) [^](https://github.com/newdigate/eurorack-awesome)
 |
 [nodejs-scrape-and-generate-colors](https://github.com/newdigate/nodejs-scrape-and-generate-colors) [^](https://github.com/newdigate/rgb565_colors)
-|
+
 ```c#```
 [troupe-windows-notifier](https://github.com/newdigate/troupe-windows-notifier)
 |
