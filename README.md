@@ -45,7 +45,7 @@ With your support, I can continue to design free software and hardware, and hope
 |
 [libtftscope](https://github.com/newdigate/teensy-audio-libtftscope)
 |
-[eurorack-audio-gui](https://newdigate.github.io/teensy-eurorack-audio-gui)
+[eurorack-audio-gui](https://github.com/newdigate/teensy-eurorack-audio-gui/)[^](https://newdigate.github.io/teensy-eurorack-audio-gui)
 |
 [cmake-macros](https://github.com/newdigate/teensy-cmake-macros)
 
