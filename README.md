@@ -1,4 +1,4 @@
-👋 **Hi** - My name is *Nic*. 
+👋 **Hi** - My name is *Nic*. I'm a dad, a husband, programmer, and day dreamer. I'm also available for hire - just send me a message! 
 
 I'm building a DIY digital music instrument and effect platform, based on [Teensy 4.1](https://www.pjrc.com/store/teensy41.html) microcontroller dev boards - All my designs and code are ```MIT license``` ```open source```, so please feel free to use them commercially. 
 
