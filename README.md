@@ -52,7 +52,7 @@ I'm building a DIY digital music instrument and effect platform, based on [Teens
 
 ```typescript```
 [vscode-boost-test-adapter](https://github.com/newdigate/vscode-boost-test-adapter) [^](https://marketplace.visualstudio.com/items?itemName=NicNewdigate.boost-test-adapter-debug)
-|
+
 ```nodejs``` 
 [eurorack-awesome-db](https://github.com/newdigate/eurorack-awesome-db) [^](https://github.com/newdigate/eurorack-awesome)
 |
