@@ -2,14 +2,6 @@
 
 I'm building a DIY digital music instrument and effect platform, based on [Teensy 4.1](https://www.pjrc.com/store/teensy41.html) microcontroller dev boards - All my designs and code are ```MIT license``` ```open source```, so please feel free to use them commercially. 
 
-<a href='///www.patreon.com/teensy_eurorack'><img src='https://github.githubassets.com/images/modules/site/icons/funding_platforms/patreon.svg' height='20px' title='patreon'/>Patreon</a>
-|
-[paypal.me](///paypal.me/nicnewdigate)
-|
-[github-sponsors](https://github.com/sponsors/newdigate)
-
-Please consider a small once-off donation or join my patreon or github sponsors. With your support, I can continue to design free software and hardware, and hopefully soon, I will be able to do it full-time... Your contributions are massively appreciated!
-
 
 ```hardware```
 [teensy-eurorack](https://github.com/newdigate/teensy-eurorack)
