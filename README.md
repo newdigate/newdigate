@@ -40,15 +40,19 @@ I'm building a DIY digital music instrument and effect platform, based on [Teens
 [cmake-macros](https://github.com/newdigate/teensy-cmake-macros)
 
 ```teensy on x86/x64```
-[x86-stubs](https://github.com/newdigate/teensy-x86-stubs)
+[cores](https://github.com/newdigate/teensy-x86-stubs)
 |
-[x86-sd-stubs](https://github.com/newdigate/teensy-x86-sd-stubs)
+[sd](https://github.com/newdigate/teensy-x86-sd-stubs)
 |
-[audio-x86-stubs](https://github.com/newdigate/teensy-audio-x86-stubs)
+[audio](https://github.com/newdigate/teensy-audio-x86-stubs)
 |
-[st7735-linux-stubs](https://github.com/newdigate/teensy-st7735-linux-stubs)
+[st7735](https://github.com/newdigate/teensy-st7735-linux-stubs)
 |
-[midi-stubs](https://github.com/newdigate/teensy-x86-midi-stubs)
+[midi](https://github.com/newdigate/teensy-x86-midi-stubs)
+|
+[bounce2](https://github.com/newdigate/teensy-x86-bounce2-stubs)
+|
+[encoder](https://github.com/newdigate/teensy-x86-encoder-stubs)
 
 ```typescript```
 [vscode-boost-test-adapter](https://github.com/newdigate/vscode-boost-test-adapter) [^](https://marketplace.visualstudio.com/items?itemName=NicNewdigate.boost-test-adapter-debug)
