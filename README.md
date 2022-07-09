@@ -1,9 +1,6 @@
-👋 **Hi** - My name is *Nic*. I'm a dad, husband, programmer.
+👋 **Hi** - My name is *Nic*. I'm building a DIY micro-controller music instrument/effect platform, based on [Teensy 4.1](https://www.pjrc.com/store/teensy41.html)
 
-I'm building a DIY microcontroller music instrument/effect platform, based on [Teensy 4.1](https://www.pjrc.com/store/teensy41.html) microcontroller dev boards - All my designs and code are ```MIT license``` ```open source```, so please feel free to use them commercially. 
-
-
-```hardware```
+```hardware design```
 [teensy-eurorack](https://github.com/newdigate/teensy-eurorack)
 |
 [teensy-control-voltage](https://github.com/newdigate/teensy-control-voltage)
@@ -12,7 +9,7 @@ I'm building a DIY microcontroller music instrument/effect platform, based on [T
 |
 [teensy-midi-looper](https://github.com/newdigate/teensy-midi-looper)
 
-```teensy``` 
+```teensy libraries``` 
 [variable-playback](https://github.com/newdigate/teensy-variable-playback)
 |
 [polyphony](https://github.com/newdigate/teensy-polyphony)
@@ -39,7 +36,7 @@ I'm building a DIY microcontroller music instrument/effect platform, based on [T
 |
 [cmake-macros](https://github.com/newdigate/teensy-cmake-macros)
 
-```teensy on x86/x64```
+```teensy libraries for x86/x64```
 [cores](https://github.com/newdigate/teensy-x86-stubs)
 |
 [sd](https://github.com/newdigate/teensy-x86-sd-stubs)
