@@ -1,6 +1,6 @@
 👋 **Hi** - My name is *Nic*. I'm a dad, husband, programmer.
 
-I'm building a DIY digital music instrument and effect platform, based on [Teensy 4.1](https://www.pjrc.com/store/teensy41.html) microcontroller dev boards - All my designs and code are ```MIT license``` ```open source```, so please feel free to use them commercially. 
+I'm building a DIY microcontroller music instrument/effect platform, based on [Teensy 4.1](https://www.pjrc.com/store/teensy41.html) microcontroller dev boards - All my designs and code are ```MIT license``` ```open source```, so please feel free to use them commercially. 
 
 
 ```hardware```
