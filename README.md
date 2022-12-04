@@ -35,6 +35,8 @@
 [eurorack-audio-gui](https://github.com/newdigate/teensy-eurorack-audio-gui/)[^](https://newdigate.github.io/teensy-eurorack-audio-gui)
 |
 [cmake-macros](https://github.com/newdigate/teensy-cmake-macros)
+|
+[sample-flashloader](https://github.com/newdigate/teensy-sample-flashloader)
 
 ```teensy libraries for x86/x64```
 [cores](https://github.com/newdigate/teensy-x86-stubs)
