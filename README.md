@@ -1,4 +1,6 @@
-👋 **Hi** - My name is *Nic*. I'm building a DIY micro-controller music instrument/effect platform, based on [Teensy 4.1](https://www.pjrc.com/store/teensy41.html)
+👋 **Hi** - My name is *Nic*. 
+
+I'm building a DIY micro-controller music instrument/effect platform, based on [Teensy 4.1](https://www.pjrc.com/store/teensy41.html)
 
 ##### Please consider joining my patreon sponsors: <a href='///www.patreon.com/teensy_eurorack'><img src='https://github.githubassets.com/images/modules/site/icons/funding_platforms/patreon.svg' height='20px' title='patreon'/>Patreon</a> | [paypal.me](///paypal.me/nicnewdigate)
 
