@@ -2,10 +2,6 @@
 
 Use as much of this code as you like... 
 
-but if you want a change - please DIY and send a pull-request, or just make your own branch and share your changes for the community - 
-
-Thanks!!!
-
 ```hardware design```
 [midi-tool](https://github.com/newdigate/samd21g-midi-tool)
 |
