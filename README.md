@@ -1,6 +1,8 @@
-👋 **Hi** - My name is *Nic*. 
+**Go for it!** Make a thing! 
 
-I'm building a DIY micro-controller music instrument/effect platform, based on [Teensy 4.1](https://www.pjrc.com/store/teensy41.html)
+Use as much of this code as you like, but if you want a change - please DIY and send a pull-request, or just make a branch and share your changes for the community - 
+
+Thanks!!!  
 
 ```hardware design```
 [midi-tool](https://github.com/newdigate/samd21g-midi-tool)
