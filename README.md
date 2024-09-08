@@ -3,6 +3,8 @@
 I'm building a DIY micro-controller music instrument/effect platform, based on [Teensy 4.1](https://www.pjrc.com/store/teensy41.html)
 
 ```hardware design```
+[midi-tool](https://github.com/newdigate/samd21g-midi-tool)
+|
 [teensy-eurorack](https://github.com/newdigate/teensy-eurorack)
 |
 [teensy-control-voltage](https://github.com/newdigate/teensy-control-voltage)
