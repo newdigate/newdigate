@@ -2,6 +2,8 @@
 
 Use as much of this code as you like... 
 
+##### Please consider joining my patreon sponsors: <a href='///www.patreon.com/teensy_eurorack'><img src='https://github.githubassets.com/images/modules/site/icons/funding_platforms/patreon.svg' height='20px' title='patreon'/>Patreon</a> | [paypal.me](///paypal.me/nicnewdigate)
+
 ```hardware design```
 [midi-tool](https://github.com/newdigate/samd21g-midi-tool)
 |
@@ -90,4 +92,3 @@ Use as much of this code as you like...
 <a href='///github.com/newdigate/teensy-gfx-controls'><img src='https://github.com/newdigate/teensy-gfx-controls/raw/main/docs/scene_menus.gif' height='80px' title='newdigate/teensy-gfx-controls'/></a> <a href='https://github.com/newdigate/teensy-audio-launch-ctrl/tree/feature/next'><img src='https://github.com/newdigate/teensy-audio-launch-ctrl/blob/feature/next/sampler.gif' height='80px' title='newdigate/teensy-audio-launch-ctrl'/></a>
 
 
-##### Please consider joining my patreon sponsors: <a href='///www.patreon.com/teensy_eurorack'><img src='https://github.githubassets.com/images/modules/site/icons/funding_platforms/patreon.svg' height='20px' title='patreon'/>Patreon</a> | [paypal.me](///paypal.me/nicnewdigate)
