@@ -45,19 +45,16 @@ Use as much of this code as you like...
 [sample-flashloader](https://github.com/newdigate/teensy-sample-flashloader)
 
 ```teensy libraries for x86/x64```
-[cores](https://github.com/newdigate/teensy-x86-stubs)
-|
-[sd](https://github.com/newdigate/teensy-x86-sd-stubs)
-|
-[audio](https://github.com/newdigate/teensy-audio-x86-stubs)
-|
-[st7735](https://github.com/newdigate/teensy-st7735-linux-stubs)
-|
-[midi](https://github.com/newdigate/teensy-x86-midi-stubs)
-|
-[bounce2](https://github.com/newdigate/teensy-x86-bounce2-stubs)
-|
-[encoder](https://github.com/newdigate/teensy-x86-encoder-stubs)
+|  |  |
+|---|---|
+| [cores](https://github.com/newdigate/teensy-x86-stubs) | [![CMake](https://github.com/newdigate/teensy-x86-stubs/workflows/CMake/badge.svg)](https://github.com/newdigate/teensy-x86-stubs/actions) [![basic-test](https://github.com/newdigate/teensy-x86-stubs/actions/workflows/basic-test.yml/badge.svg)](https://github.com/newdigate/teensy-x86-stubs/actions/workflows/basic-test.yml) |
+| [sd](https://github.com/newdigate/teensy-x86-sd-stubs) | [![Ubuntu-x64](https://github.com/newdigate/teensy-x86-sd-stubs/actions/workflows/ubuntu-x86.yml/badge.svg)](https://github.com/newdigate/teensy-x86-sd-stubs/actions/workflows/ubuntu-x86.yml) |
+| [audio](https://github.com/newdigate/teensy-audio-x86-stubs) | [![audio-x64](https://github.com/newdigate/teensy-audio-x86-stubs/actions/workflows/audio-x64.yml/badge.svg)](https://github.com/newdigate/teensy-audio-x86-stubs/actions/workflows/audio-x64.yml) [![audio-x64](https://github.com/newdigate/teensy-audio-x86-stubs/actions/workflows/audio-x64.yml/badge.svg)](https://github.com/newdigate/teensy-audio-x86-stubs/actions/workflows/audio-x64.yml) [![audio-soundio](https://github.com/newdigate/teensy-audio-x86-stubs/actions/workflows/soundio.yml/badge.svg)](https://github.com/newdigate/teensy-audio-x86-stubs/actions/workflows/soundio.yml) |
+| [st7735](https://github.com/newdigate/teensy-st7735-linux-stubs) |  |
+| [midi](https://github.com/newdigate/teensy-x86-midi-stubs) |  |
+| [bounce2](https://github.com/newdigate/teensy-x86-bounce2-stubs) |  |
+| [encoder](https://github.com/newdigate/teensy-x86-encoder-stubs) |  |
+
 
 ```typescript```
 [vscode-boost-test-adapter](https://github.com/newdigate/vscode-boost-test-adapter) [^](https://marketplace.visualstudio.com/items?itemName=NicNewdigate.boost-test-adapter-debug)
