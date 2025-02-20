@@ -21,8 +21,10 @@ Use as much of this code as you like...
 
 ```teensy libraries``` 
 
-[variable-playback](https://github.com/newdigate/teensy-variable-playback)
-|
+|  	|  	|
+|---	|---	|
+| [variable-playback](https://github.com/newdigate/teensy-variable-playback) 	| [![lib-teensy41](https://github.com/newdigate/teensy-variable-playback/actions/workflows/teensy41_lib.yml/badge.svg)](https://github.com/newdigate/teensy-variable-playback/actions/workflows/teensy41_lib.yml) [![Ubuntu-x64](https://github.com/newdigate/teensy-variable-playback/workflows/Ubuntu-x64/badge.svg)](https://github.com/newdigate/teensy-variable-playback/actions) 	|
+
 [polyphony](https://github.com/newdigate/teensy-polyphony)
 |
 [midifile-reader](https://github.com/newdigate/midi-smf-reader)
