@@ -8,6 +8,7 @@ Use as much of this code as you like...
 ##### Please consider joining my patreon sponsors: <a href='///www.patreon.com/teensy_eurorack'><img src='https://github.githubassets.com/images/modules/site/icons/funding_platforms/patreon.svg' height='20px' title='patreon'/>Patreon</a> | [paypal.me](///paypal.me/nicnewdigate)
 
 ```hardware design```
+
 [midi-tool](https://github.com/newdigate/samd21g-midi-tool)
 |
 [teensy-eurorack](https://github.com/newdigate/teensy-eurorack)
@@ -19,6 +20,7 @@ Use as much of this code as you like...
 [teensy-midi-looper](https://github.com/newdigate/teensy-midi-looper)
 
 ```teensy libraries``` 
+
 [variable-playback](https://github.com/newdigate/teensy-variable-playback)
 |
 [polyphony](https://github.com/newdigate/teensy-polyphony)
@@ -48,6 +50,7 @@ Use as much of this code as you like...
 [sample-flashloader](https://github.com/newdigate/teensy-sample-flashloader)
 
 ```teensy libraries for x86/x64```
+
 |  	|  	|
 |---	|---	|
 | [cores](https://github.com/newdigate/teensy-x86-stubs) 	| [![root](https://github.com/newdigate/teensy-x86-stubs/actions/workflows/root.yml/badge.svg)](https://github.com/newdigate/teensy-x86-stubs/actions/workflows/root.yml) [![blink](https://github.com/newdigate/teensy-x86-stubs/actions/workflows/blink.yml/badge.svg)](https://github.com/newdigate/teensy-x86-stubs/actions/workflows/blink.yml) [![first](https://github.com/newdigate/teensy-x86-stubs/actions/workflows/first.yml/badge.svg)](https://github.com/newdigate/teensy-x86-stubs/actions/workflows/first.yml) 	|
@@ -56,7 +59,7 @@ Use as much of this code as you like...
 | [st7735](https://github.com/newdigate/teensy-st7735-linux-stubs) 	| [![Ubuntu-x64](https://github.com/newdigate/teensy-st7735-linux-stubs/workflows/Ubuntu-x64/badge.svg)](https://github.com/newdigate/teensy-st7735-linux-stubs/actions)  [![ubuntu-opengl](https://github.com/newdigate/teensy-st7735-linux-stubs/workflows/ubuntu-opengl/badge.svg)](https://github.com/newdigate/teensy-st7735-linux-stubs/actions?query=workflow%3Aubuntu-opengl)  [![basic-example](https://github.com/newdigate/teensy-st7735-linux-stubs/workflows/basic-example/badge.svg)](https://github.com/newdigate/teensy-st7735-linux-stubs/actions?query=workflow%3Abasic-example)  [![scrolltest-example](https://github.com/newdigate/teensy-st7735-linux-stubs/workflows/scrolltest-example/badge.svg)](https://github.com/newdigate/teensy-st7735-linux-stubs/actions?query=workflow%3Ascrolltest-example)  [![spitftbitmap-example](https://github.com/newdigate/teensy-st7735-linux-stubs/workflows/spitftbitmap-example/badge.svg)](https://github.com/newdigate/teensy-st7735-linux-stubs/actions?query=workflow%3Aspitftbitmap-example) 	|
 | [midi](https://github.com/newdigate/teensy-x86-midi-stubs) 	| [![libmidi](https://github.com/newdigate/teensy-x86-midi-stubs/actions/workflows/libmidi.yml/badge.svg)](https://github.com/newdigate/teensy-x86-midi-stubs/actions/workflows/libmidi.yml) [![libmidi_rtmidi](https://github.com/newdigate/teensy-x86-midi-stubs/actions/workflows/libmidi_rtmidi.yml/badge.svg)](https://github.com/newdigate/teensy-x86-midi-stubs/actions/workflows/libmidi_rtmidi.yml) 	|
 | [bounce2](https://github.com/newdigate/teensy-x86-bounce2-stubs) 	| [![linux](https://github.com/newdigate/teensy-x86-bounce2-stubs/actions/workflows/linux.yml/badge.svg)](https://github.com/newdigate/teensy-x86-bounce2-stubs/actions/workflows/linux.yml) 	|
-| [encoder](https://github.com/newdigate/teensy-x86-encoder-stubs) 	|  	|
+| [encoder](https://github.com/newdigate/teensy-x86-encoder-stubs) 	| [![basic](https://github.com/newdigate/teensy-x86-encoder-stubs/actions/workflows/basic.yml/badge.svg)](https://github.com/newdigate/teensy-x86-encoder-stubs/actions/workflows/basic.yml) 	|
 
 ```typescript```
 [vscode-boost-test-adapter](https://github.com/newdigate/vscode-boost-test-adapter) [^](https://marketplace.visualstudio.com/items?itemName=NicNewdigate.boost-test-adapter-debug)
