@@ -7,6 +7,9 @@ Use as much of this code as you like...
 
 ##### Please consider joining my patreon sponsors: <a href='///www.patreon.com/teensy_eurorack'><img src='https://github.githubassets.com/images/modules/site/icons/funding_platforms/patreon.svg' height='20px' title='patreon'/>Patreon</a> | [paypal.me](///paypal.me/nicnewdigate)
 
+<details>
+
+
 ```hardware design```
 
 [midi-tool](https://github.com/newdigate/samd21g-midi-tool)
@@ -94,4 +97,6 @@ Use as much of this code as you like...
 
 
 
+  
+</details>
 
